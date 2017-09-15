@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="My Section" section_id="d49a49e50f81030012ba8fcce1050ed5" sys_domain="global" table="x_159407_testincid_custom_incident" version="3" view="New_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>e09a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>649a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>e49a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>689a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>e89a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>6c9a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:19</sys_created_on>
+            <sys_id>ec9a49e50f81030012ba8fcce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="x_159407_testincid_custom_incident" sys_domain="global" view="d09ac5e50f81030012ba8fcce1050ea2">d49a49e50f81030012ba8fcce1050ed5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Section</caption>
+            <header>false</header>
+            <name>x_159407_testincid_custom_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 16:33:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d49a49e50f81030012ba8fcce1050ed5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TESTINCIDENT" source="x_159407_testincid">7c3e28690f41030012ba8fcce1050e62</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TESTINCIDENT">7c3e28690f41030012ba8fcce1050e62</sys_scope>
+            <sys_update_name>sys_ui_section_d49a49e50f81030012ba8fcce1050ed5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 16:33:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New View" name="New_View">d09ac5e50f81030012ba8fcce1050ea2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

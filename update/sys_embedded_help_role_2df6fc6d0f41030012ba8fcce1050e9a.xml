@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_159407_testincid.custom_incident_user" name="x_159407_testincid.custom_incident_user">edf6fc6d0f41030012ba8fcce1050e98</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 15:07:39</sys_created_on>
+        <sys_id>2df6fc6d0f41030012ba8fcce1050e9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edf6fc6d0f41030012ba8fcce1050e98</sys_name>
+        <sys_package display_value="TESTINCIDENT" source="x_159407_testincid">7c3e28690f41030012ba8fcce1050e62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TESTINCIDENT">7c3e28690f41030012ba8fcce1050e62</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2df6fc6d0f41030012ba8fcce1050e9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 15:07:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
